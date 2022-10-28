@@ -1,0 +1,20 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals = 1; plural = 0;\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+msgid "Learn React"
+msgstr "Hoc React"
+
+msgid "Detail image"
+msgstr "Chi tiết bức ảnh"
+
+msgid "A dog is walking"
+msgstr "Một con cún đang đi dạo"
+
+msgid "It is such a beautiful day"
+msgstr "Hôm nay quả là một ngày đẹp trời"
